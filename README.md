@@ -76,7 +76,7 @@ This report serves as a portfolio artifact demonstrating my readiness for **entr
 
 
 ## 📂 Project Files
-- [Incident_Report_Analysis.docx](./Incident_Report_Analysis.docx) – Full incident report document  
+[⬇️ Download Incident_Report_Analysis.docx](https://github.com/<your-username>/<repo-name>/raw/main/Incident_Report_Analysis.docx)
   
 
 
