@@ -1,15 +1,14 @@
-
 # 🛡️ Incident Report Analysis – DDoS Attack (NIST Cybersecurity Framework)
 
 This project was developed as part of the **Google Cybersecurity Professional Certificate – Course 3: Networks and Network Security**.  
 It demonstrates how to apply the **NIST Cybersecurity Framework (CSF)** to analyze and respond to a simulated **Distributed Denial of Service (DDoS)** attack targeting a multimedia organization’s internal network.
 
-
+---
 
 ## 📘 Project Overview
 
 In this case study, a company experienced a major **network outage** caused by an **ICMP flood attack**.  
-As a cybersecurity analyst, I documented the entire incident using the NIST CSF methodology—**Identify, Protect, Detect, Respond, and Recover**—to analyze the attack, outline containment procedures, and recommend long-term preventive strategies.
+As a cybersecurity analyst, I documented the entire incident using the NIST CSF methodology — **Identify, Protect, Detect, Respond, and Recover** — to analyze the attack, outline containment procedures, and recommend long-term preventive strategies.
 
 This project highlights both **technical and analytical** cybersecurity skills essential for entry-level analysts.
 
@@ -42,7 +41,7 @@ This project highlights both **technical and analytical** cybersecurity skills e
 - Performed **system integrity checks** to confirm successful remediation.  
 - Conducted a **post-incident review** to integrate lessons learned into organizational policies.  
 
-
+---
 
 ## 🧠 Skills Demonstrated
 
@@ -53,7 +52,7 @@ This project highlights both **technical and analytical** cybersecurity skills e
 - **NIST Cybersecurity Framework (CSF)**  
 - **Threat Analysis & Policy Development**  
 
-
+---
 
 ## 🧾 Tools & Technologies
 
@@ -62,7 +61,7 @@ This project highlights both **technical and analytical** cybersecurity skills e
 - **Splunk / Elastic Stack (SIEM)** – Event correlation and monitoring  
 - **Microsoft Word** – Formal report documentation  
 
-
+---
 
 ## 📚 Learning Outcomes
 
@@ -73,21 +72,19 @@ Through this project, I strengthened my ability to:
 
 This report serves as a portfolio artifact demonstrating my readiness for **entry-level cybersecurity analyst** roles and my commitment to professional standards in network defense and incident handling.
 
-
+---
 
 ## 📂 Project Files
 
-[Incident_Report_Analysis.docx](https://github.com/user-attachments/files/23110752/Incident_Report_Analysis.docx)
+[![Download Report](https://img.shields.io/badge/Download_Incident_Report-Word_File-blue?style=for-the-badge&logo=microsoftword)](https://github.com/Muhammad-Bilal834/incident-report-analysis/raw/main/Incident_Report_Analysis.docx)
 
+---
 
-### 🔖 Keywords / Tags
+### 🔖 Keywords / Topics
 `cybersecurity` `incident-response` `ddos-attack` `network-security` `nist-csf` `google-cybersecurity-certificate` `risk-management` `security-portfolio`
 
-
+---
 
 👤 **Author:** Muhammad Bilal  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/muhammad-bilal-914273314/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/muhammad-bilal-914273314/)  
 📅 *Completed: October 2025*
-
-
