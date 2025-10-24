@@ -76,12 +76,8 @@ This report serves as a portfolio artifact demonstrating my readiness for **entr
 
 
 ## 📂 Project Files
-[⬇️ Download Incident_Report_Analysis.docx](https://github.com/<your-username>/<repo-name>/raw/main/Incident_Report_Analysis.docx)
-  
-[![Download Report](https://img.shields.io/badge/Download_Report-Word_File-blue?style=for-the-badge&logo=microsoftword)](https://github.com/user-attachments/files/22599999/Incident_Report_Analysis.docx)
 
-[Incident_Report_Analysis.docx](https://github.com/<your-username>/<your-repo>/raw/main/Incident_Report_Analysis.docx)
-
+[Incident_Report_Analysis.docx](https://github.com/user-attachments/files/23110752/Incident_Report_Analysis.docx)
 
 
 ### 🔖 Keywords / Tags
